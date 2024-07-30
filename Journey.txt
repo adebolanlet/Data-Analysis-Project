@@ -1,1 +1,2 @@
-This is my journey to learning GitBash and GitHub
+This is my journey to learning GitBash and GitHub.
+How can we go about this?
